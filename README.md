@@ -1,2 +1,0 @@
-# FitFam
-A fitness application
